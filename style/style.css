@@ -292,7 +292,7 @@ header {
 
 .amet {
     color: rgba(7, 2, 17, 0.6);
-    
+
 
 
 
@@ -304,4 +304,257 @@ header {
 .twenty-four {
     margin-left: 118px;
 
+}
+
+.day {
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.function {
+    color: rgb(7, 2, 17);
+
+
+    font-size: 24px;
+
+    font-weight: 500;
+    margin-bottom: 0%;
+}
+
+.holl {
+    margin-top: 0%;
+
+
+    font-size: 72px;
+
+    font-weight: 900;
+}
+
+.mole {
+    color: rgba(7, 2, 17, 0.6);
+
+
+
+    font-size: 20px;
+
+    font-weight: 500;
+}
+
+.lal {
+    position: absolute;
+    margin-top: 430px;
+    margin-left: 290px;
+}
+
+.bedi {
+    position: absolute;
+    margin-left: 1180px;
+}
+
+.discount {
+    position: absolute;
+    margin-bottom: 200px;
+    margin-left: 1000px;
+    margin-top: 90px;
+}
+
+.hudai {
+    position: relative;
+}
+
+.box {
+    position: relative;
+    margin-left: 250px;
+}
+
+.gift {
+    margin-left: 300px;
+}
+
+.the {
+    color: rgb(255, 0, 0);
+
+    margin-bottom: 25px;
+    font-size: 24px;
+
+    font-weight: 500;
+}
+
+.awesome {
+    color: rgb(7, 2, 17);
+    margin-top: 0px;
+    margin-bottom: 40px;
+
+
+    font-size: 48px;
+
+    font-weight: 900;
+}
+
+.ut {
+    color: rgba(7, 2, 17, 0.6);
+
+    margin-top: 0px;
+
+    font-size: 20px;
+
+    font-weight: 400;
+}
+
+.items {
+    display: flex;
+    align-items: center;
+    width: 1320px;
+
+    height: 1163px;
+    margin-left: 300px;
+}
+
+.sub {
+    text-align: center;
+    margin-top: 150px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+
+    height: 616px;
+    margin-left: 300px;
+}
+
+.icon {
+    margin-top: 100px;
+    width: 150px;
+
+    height: 150px;
+}
+
+.cribe {
+    color: rgb(255, 255, 255);
+    padding: 24px 56px;
+
+
+
+    border-radius: 0px 50px 50px 0px;
+
+
+    background: rgb(255, 0, 0);
+
+    font-size: 20px;
+
+    font-weight: 600;
+    position: relative;
+    margin-left: 500px;
+
+
+
+}
+
+.subscribe-btn {
+    position: absolute;
+
+
+    padding: 25px 477px 25px 30px;
+
+
+
+    border-radius: 50px;
+
+
+    background: rgb(255, 255, 255);
+
+
+}
+
+.scribe {
+    color: rgb(7, 2, 17);
+
+    font-family: Merriweather;
+
+    font-size: 48px;
+
+    font-weight: 900;
+}
+
+.sub-content {
+    color: rgba(7, 2, 17, 0.6);
+
+
+
+    font-size: 20px;
+
+    font-weight: 400;
+}
+
+footer {
+    margin-top: 100px;
+    background: rgb(7, 2, 17);
+    width: 1600px;
+
+    width: 1320px;
+
+    height: 609px;
+    margin-left: 300px;
+}
+
+.top {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    width: 375px;
+
+    height: 80px;
+   margin-top: 100px;
+   margin-left: 50px;
+
+
+
+    font-size: 24px;
+
+    font-weight: 500;
+}
+
+.bottom {
+    color: rgb(255, 255, 255);
+    position: absolute;
+
+    margin-top: 500px;
+    margin-left: 50px;
+
+
+
+    font-size: 24px;
+
+    font-weight: 500;
+}
+
+.top-two {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 975px;
+
+
+
+
+    font-size: 24px;
+
+    font-weight: 500;
+}
+
+.bottom-two {
+    color: rgb(255, 255, 255);
+    position: absolute;
+
+    margin-top: 350px;
+    margin-left: 50px;
+
+
+    font-size: 24px;
+
+    font-weight: 500;
+}
+
+.center {
+    margin-top: 200px;
+    margin-left: 500px;
+    position: absolute;
 }
